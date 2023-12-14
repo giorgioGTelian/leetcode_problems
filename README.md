@@ -6,25 +6,25 @@ Welcome to my repository of LeetCode solutions! This repository contains my pers
 
 Each solution in this repository is organized by its difficulty level (Easy, Medium, Hard) and then by problem number. Each problem has its own directory which contains the solution code and a README file with the problem statement and my approach to solving it.
 
-LeetCode_Problems/
-│
-├── Easy/
-│   ├── Problem_1/
-│   │   ├── solution.cpp
-│   │   └── README.md
+LeetCode_Problems/  
+│  
+├── Easy/  
+│   ├── Problem_1/  
+│   │   ├── solution.cpp  
+│   │   └── README.md  
+│   ...  
+│  
+├── Medium/  
+│   ├── Problem_101/  
+│   │   ├── solution.cpp  
+│   │   └── README.md  
 │   ...
-│
-├── Medium/
-│   ├── Problem_101/
-│   │   ├── solution.cpp
-│   │   └── README.md
-│   ...
-│
-└── Hard/
-    ├── Problem_201/
-    │   ├── solution.cpp
-    │   └── README.md
-    ...
+│  
+└── Hard/  
+    ├── Problem_201/  
+    │   ├── solution.cpp  
+    │   └── README.md  
+    ...  
 
 
 ## Problems and Solutions
@@ -33,20 +33,17 @@ Here is a list of problems along with their solutions:
 
 ### Easy
 
-- [Problem 1: Problem Title](/Easy/Problem_1/)
-- [Problem 2: Problem Title](/Easy/Problem_2/)
+- [Problem 1: two sums](https://leetcode.com/problems/two-sum/description/)
 - ...
 
 ### Medium
 
-- [Problem 2: Problem Title](https://leetcode.com/problems/add-two-numbers/description/)
-- [Problem 2482: Problem Title](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14)
+- [Problem 2: add two numbers](https://leetcode.com/problems/add-two-numbers/description/)
+- [Problem 2482: difference between ones and zeros](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14)
 - ...
 
 ### Hard - TDB
 
-- [Problem 201: Problem Title](/Hard/Problem_201/)
-- [Problem 202: Problem Title](/Hard/Problem_202/)
 - ...
 
 ## Usage
