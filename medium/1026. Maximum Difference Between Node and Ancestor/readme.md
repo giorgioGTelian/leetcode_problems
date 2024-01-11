@@ -1,7 +1,3 @@
-Certainly! Here's your text formatted with Markdown:
-
----
-
 # 1026. Maximum Difference Between Node and Ancestor
 
 **Status:** Solved  
@@ -38,6 +34,3 @@ A node `a` is an ancestor of `b` if either: any child of `a` is equal to `b` or 
 - The number of nodes in the tree is in the range [2, 5000].
 - 0 <= Node.val <= 10^5
 
---- 
-
-This markdown format organizes your text into a structured document with a title, status, difficulty, sections for topics, companies, hints, examples, and constraints.
