@@ -5,7 +5,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my pers
 ## Repository Structure
 
 Each solution in this repository is organized by its difficulty level (Easy, Medium, Hard) and then by problem number. Each problem has its own directory which contains the solution code and a README file with the problem statement and my approach to solving it.
-`
+```
 LeetCode_Problems/  
 │  
 ├── Easy/  
@@ -25,7 +25,7 @@ LeetCode_Problems/
     │   ├── solution.cpp  
     │   └── README.md  
     ...  
-`
+```
 
 ## Problems and Solutions
 
